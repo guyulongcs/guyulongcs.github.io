@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Tay's Homepage"
+title                    : "Yulong Gu's Homepage"
 title_separator          : "-"
-name                     : &name "Yi Tay"
-description              : &description "4th Year PhD Candidate at NTU Singapore."
-url                      : https://vanzytay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yulong Gu"
+description              : &description "Research Scientist."
+url                      : https://guyulongcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vanzytay/vanzytay.github.io"
+repository               : "guyulongcs/guyulongcs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "ytay017"
+  username               : "guyulongcs"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi Tay"
-  avatar           : "me.jpg"
-  bio              : "Research Scientist at Google"
-  location         : "Mountain View, California"
+  name             : "Yulong Gu"
+  avatar           : "guyulong.jpg"
+  bio              : "Research Scientist"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com.sg/citations?user=VBclY_cAAAAJ&hl=en"
-  email            : "ytay017@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_p_9y7wAAAAJ&hl=en"
+  email            : "guyulongcs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vanzytay"
+  github           : "guyulongcs"
   google_plus      :
   keybase          :
-  instagram        : "tayyi"
+  instagram        : #"guyulongcs"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tayyi"
+  linkedin         : "guyulongcs"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ytay017"
+  twitter          : "guyulongcs"
   vine             :
   weibo            :
   xing             :
