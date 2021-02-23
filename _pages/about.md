@@ -8,10 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natural Language Processing and Machine Learning Research. I am currently based in Mountain View, California. Before joining Google, I earned my PhD (Computer Science) and B.Eng (Computer Science) from NTU, Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence. You can find my Google Research homepage [here](https://research.google/people/106722/).
+I am a Research Scientist at Alibaba Group working on Information Retrieval and Recommender Systems Research. I am currently based in Beijing, China. Before joining Alibaba, I workd on Recommender Systems in JD.com. I earned my PhD (Computer Science)  from Tsinghua University in 2017. During my PhD, I worked on deep learning, recommender system, data mining and natural language processing.
 
 
 ## Latest News
+* 02.12.20 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
+* 27.11.20 - Invited to serve as standing reviewer of TOIS.
+* 04.09.20 - Invited to serve as Program Committee of AAAI 2021.
+* 26.08.20 - Invited to serve as Program Committee of IJCAI 2021.
+* 25.07.20 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412697) is accepted to CIKM 2020.
+* 25.07.20 - Our paper [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://dl.acm.org/doi/abs/10.1145/3340531.3412695) is accepted to CIKM 2020.
+* 22.04.20 - Our paper [Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/10.1145/3397271.3401181) is accepted to SIGIR 2020.
+* 11.10.19 - Our paper [Hierarchical User Profiling for E-commerce Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3336191.3371827) is accepted to WSDM 2020.
+* 09.05.19 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf) is accepted to IJCAI 2019.
+
+
+
+
+
+
 * 18.02.21 - Our WSDM 2021 [paper](https://arxiv.org/abs/2008.13533) received the best paper award (runner-up)
 * 20.01.21 - Awarded Outstanding Reviewer Award (top 6%) at WSDM 2021. 
 * 12.01.21 - 4 papers accepted to ICLR! 
