@@ -33,3 +33,8 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 ### Journals
 Reviewer of TOIS
 
+
+## CV
+
+[PDF](https://guyulongcs.github.io/files/YulongGu_CV.pdf) <br>
+
