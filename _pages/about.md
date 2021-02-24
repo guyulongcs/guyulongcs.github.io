@@ -13,7 +13,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 ## Latest News
 * 12/02/2020 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
-* 11/27/2020 - Invited to serve as standing reviewer of TOIS.
+* 11/27/2020 - Invited to serve as reviewer of TOIS.
 * 09/04/2020 - Invited to serve as Program Committee of AAAI 2021.
 * 08/26/2020 - Invited to serve as Program Committee of IJCAI 2021.
 * 07/25/2020 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412697) is accepted to CIKM 2020.
