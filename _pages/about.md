@@ -23,4 +23,12 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 * 05/09/2019 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf) is accepted to IJCAI 2019.
 
 
+## Service
+
+### Program Committee
+2021: AAAI, IJCAI
+2020: AAAI, IJCAI
+
+### Journals
+Reviewer of TOIS
 
