@@ -26,7 +26,8 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 ## Service
 
 ### Program Committee
-2021: AAAI, IJCAI
+2021: AAAI, IJCAI <br>
+
 2020: AAAI, IJCAI
 
 ### Journals
