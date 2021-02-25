@@ -21,4 +21,3 @@ I obtained my PhD in Computer Science from Tsinghua University, China. My PhD th
 * PhD - Department of Computer Science and Technology (Aug 2012- June 2017)
     * Tsinghua Univeristy, China
 
-Full CV is available upon request.
