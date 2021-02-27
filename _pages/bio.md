@@ -16,9 +16,7 @@ I worked as a Research Assistant Intern in Microsoft Research Asia from July 201
 ## Education
 * PhD - Department of Computer Science and Technology (Aug 2012- June 2017)
     * Tsinghua Univeristy, China
-* Bachelor - Department of Computer Science and Technology (Sep 2008- June 2012)
-	* Beijing University of Posts and Telecommunications
-	
+
 ##  Work Experience
 
 * Research Scientist (May 2020 - Now)
