@@ -12,7 +12,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 
 ## Latest News
-* 07/09/2021 - Invited to a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
+* 07/09/2021 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
 * 05/19/2021 - Invited to serve as Program Committee of CIKM 2021.
 * 12/02/2020 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
 * 11/27/2020 - Invited to serve as reviewer of TOIS.
