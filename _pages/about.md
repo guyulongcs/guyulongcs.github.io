@@ -12,17 +12,18 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 
 ## Latest News
-* 07/09/2021 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
-* 05/19/2021 - Invited to serve as Program Committee of CIKM 2021.
-* 12/02/2020 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
-* 11/27/2020 - Invited to serve as reviewer of TOIS.
-* 09/04/2020 - Invited to serve as Program Committee of AAAI 2021.
-* 08/26/2020 - Invited to serve as Program Committee of IJCAI 2021.
-* 07/25/2020 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412697) is accepted to CIKM 2020.
-* 07/25/2020 - Our paper [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://dl.acm.org/doi/abs/10.1145/3340531.3412695) is accepted to CIKM 2020.
-* 04/22/2020 - Our paper [Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/10.1145/3397271.3401181) is accepted to SIGIR 2020.
-* 10/11/2019 - Our paper [Hierarchical User Profiling for E-commerce Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3336191.3371827) is accepted to WSDM 2020.
-* 05/09/2019 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf) is accepted to IJCAI 2019.
+* 2021/08/11 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://dl.acm.org/doi/10.1145/) is accepted to CIKM 2021.
+* 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
+* 2021/05/19 - Invited to serve as Program Committee of CIKM 2021.
+* 2020/12/02 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
+* 2020/11/27 - Invited to serve as reviewer of TOIS.
+* 2020/09/04 - Invited to serve as Program Committee of AAAI 2021.
+* 2020/08/26 - Invited to serve as Program Committee of IJCAI 2021.
+* 2020/07/25 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412697) is accepted to CIKM 2020.
+* 2020/07/25 - Our paper [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://dl.acm.org/doi/abs/10.1145/3340531.3412695) is accepted to CIKM 2020.
+* 2020/04/22 - Our paper [Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/10.1145/3397271.3401181) is accepted to SIGIR 2020.
+* 2019/10/11 - Our paper [Hierarchical User Profiling for E-commerce Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3336191.3371827) is accepted to WSDM 2020.
+* 2019/05/09 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf) is accepted to IJCAI 2019.
 
 
 ## Service
