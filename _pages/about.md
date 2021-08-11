@@ -12,7 +12,8 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 
 ## Latest News
-* 2021/08/11 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://dl.acm.org/doi/10.1145/) is accepted to CIKM 2021.
+* 2021/08/11 - Invited to serve as Program Committee of AAAI 2020.
+* 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://dl.acm.org/doi/10.1145/) is accepted to CIKM 2021.
 * 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
 * 2021/05/19 - Invited to serve as Program Committee of CIKM 2021.
 * 2020/12/02 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
@@ -29,7 +30,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 ## Service
 
 ### Program Committee
-2022: IJCAI <br>
+2022: AAAI, IJCAI <br>
 
 2021: AAAI, IJCAI, CIKM <br>
 
