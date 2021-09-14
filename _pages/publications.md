@@ -15,6 +15,7 @@ author_profile: true
 <b> [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce]() </b> <br>
 <b> Yulong Gu </b>, Wentian Bao, Dan Ou, Xiang Li, Baoliang Cui, Biyu Ma, Haikuan Huang, Qingwen Liu, Xiaoyi Zeng  <br>
 <i> CIKM 2021 </i> <br>
+[PDF](https://guyulongcs.github.io/files/CIKM2021_ZEUS.pdf) | [Code](https://github.com/guyulongcs/CIKM2021_ZEUS) <br>
 
 
 
