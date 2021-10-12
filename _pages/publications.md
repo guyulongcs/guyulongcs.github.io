@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+# Year of 2022
+<b> [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() </b> <br>
+
+Zhifang Fan, Dan Ou, <b> Yulong Gu </b>, Bairan Fu, Xiang Li, Wentian Bao, Xinyu Dai, Xiaoyi Zeng, Tao Zhuang, Qingwen Liu  <br>
+<i> WSDM 2022 </i> <br>
+[PDF]() <br>
+
 # Year of 2021
 
 <b> [Attentive Neural Point Processes for Event Forecasting]() </b> <br>

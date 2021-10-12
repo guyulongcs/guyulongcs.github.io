@@ -12,6 +12,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 
 ## Latest News
+* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]()is accepted to WSDM 2022.
 * 2021/08/11 - Invited to serve as Program Committee of AAAI 2022.
 * 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://doi.org/10.1145/3459637.3481953) is accepted to CIKM 2021.
 * 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
@@ -29,6 +30,13 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 ## Publications
 
+### Year of 2022
+<b> [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() </b> <br>
+
+Zhifang Fan, Dan Ou, <b> Yulong Gu </b>, Bairan Fu, Xiang Li, Wentian Bao, Xinyu Dai, Xiaoyi Zeng, Tao Zhuang, Qingwen Liu  <br>
+<i> WSDM 2022 </i> <br>
+[PDF]() <br>
+ 
 
 ### Year of 2021
 
