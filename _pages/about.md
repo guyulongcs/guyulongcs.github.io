@@ -12,6 +12,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 
 ## Latest News
+* 2021/12/23 - Invited to serve as Program Committee of KDD 2022.
 * 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() is accepted to WSDM 2022.
 * 2021/08/11 - Invited to serve as Program Committee of AAAI 2022.
 * 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://doi.org/10.1145/3459637.3481953) is accepted to CIKM 2021.
@@ -97,7 +98,7 @@ Weijian Chen, <b> Yulong Gu </b>, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong G
 ## Service
 
 ### Program Committee
-2022: AAAI, IJCAI <br>
+2022: AAAI, IJCAI, KDD <br>
 
 2021: AAAI, IJCAI, CIKM <br>
 
