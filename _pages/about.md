@@ -13,8 +13,8 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 ## Latest News
 * 2021/12/23 - Invited to serve as Program Committee of KDD 2022.
-* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising/blob/master/3_Ranking/2022%20(Alibaba)%20(WSDM)%20Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf) is accepted to WSDM 2022.
-* 2021/08/11 - Invited to serve as Program Committee of AAAI 2022. [PDF](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) 
+* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising/blob/master/3_Ranking/2022%20(Alibaba)%20(WSDM)%20Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf) is accepted to WSDM 2022. [PDF](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) 
+* 2021/08/11 - Invited to serve as Program Committee of AAAI 2022. 
 * 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://doi.org/10.1145/3459637.3481953) is accepted to CIKM 2021.
 * 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
 * 2021/05/19 - Invited to serve as Program Committee of CIKM 2021.
