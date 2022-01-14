@@ -13,20 +13,20 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 ## Latest News
 * 2021/12/23 - Invited to serve as Program Committee of KDD 2022.
-* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising/blob/master/3_Ranking/2022%20(Alibaba)%20(WSDM)%20Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf) is accepted to WSDM 2022. [PDF](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) 
+* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) is accepted to WSDM 2022.
 * 2021/08/11 - Invited to serve as Program Committee of AAAI 2022. 
-* 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://doi.org/10.1145/3459637.3481953) is accepted to CIKM 2021.
+* 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://guyulongcs.github.io/files/CIKM2021_ZEUS.pdf) is accepted to CIKM 2021.
 * 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
 * 2021/05/19 - Invited to serve as Program Committee of CIKM 2021.
-* 2020/12/02 - Our paper "Attentive Neural Point Processes for Event Forecasting" is accepted to AAAI 2021.
+* 2020/12/02 - Our paper [Attentive Neural Point Processes for Event Forecasting](https://guyulongcs.github.io/files/AAAI2021_ANPP.pdf) is accepted to AAAI 2021.
 * 2020/11/27 - Invited to serve as reviewer of TOIS.
 * 2020/09/04 - Invited to serve as Program Committee of AAAI 2021.
 * 2020/08/26 - Invited to serve as Program Committee of IJCAI 2021.
-* 2020/07/25 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412697) is accepted to CIKM 2020.
-* 2020/07/25 - Our paper [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://dl.acm.org/doi/abs/10.1145/3340531.3412695) is accepted to CIKM 2020.
-* 2020/04/22 - Our paper [Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/10.1145/3397271.3401181) is accepted to SIGIR 2020.
-* 2019/10/11 - Our paper [Hierarchical User Profiling for E-commerce Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3336191.3371827) is accepted to WSDM 2020.
-* 2019/05/09 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf) is accepted to IJCAI 2019.
+* 2020/07/25 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://guyulongcs.github.io/files/CIKM2020_DMT.pdf) is accepted to CIKM 2020. [Code](https://github.com/guyulongcs/CIKM2020_DMT)
+* 2020/07/25 - Our paper [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://guyulongcs.github.io/files/CIKM2020_DecGCN.pdf) is accepted to CIKM 2020. [Code](https://github.com/guyulongcs/CIKM2020_DecGCN) 
+* 2020/04/22 - Our paper [Neural Interactive Collaborative Filtering](https://guyulongcs.github.io/files/SIGIR2020_NICF.pdf) is accepted to SIGIR 2020. [Code](https://github.com/guyulongcs/SIGIR2020_NICF)
+* 2019/10/11 - Our paper [Hierarchical User Profiling for E-commerce Recommender Systems](https://guyulongcs.github.io/files/WSDM2020_HUP.pdf) is accepted to WSDM 2020. [Code](https://github.com/guyulongcs/WSDM2020_HUP) 
+* 2019/05/09 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://guyulongcs.github.io/files/IJCAI2019_HGAT.pdf) is accepted to IJCAI 2019. [Code](https://github.com/guyulongcs/IJCAI2019_HGAT) 
 
 
 ## Publications
@@ -36,7 +36,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 Zhifang Fan, Dan Ou, <b> Yulong Gu </b>, Bairan Fu, Xiang Li, Wentian Bao, Xinyu Dai, Xiaoyi Zeng, Tao Zhuang, Qingwen Liu  <br>
 <i> WSDM 2022 </i> <br>
-[PDF]() <br>
+[PDF](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) <br>
  
 
 ### Year of 2021
