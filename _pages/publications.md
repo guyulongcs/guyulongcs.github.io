@@ -11,7 +11,7 @@ author_profile: true
 
 Zhifang Fan, Dan Ou, <b> Yulong Gu </b>, Bairan Fu, Xiang Li, Wentian Bao, Xinyu Dai, Xiaoyi Zeng, Tao Zhuang, Qingwen Liu  <br>
 <i> WSDM 2022 </i> <br>
-[PDF]() <br>
+[PDF](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) <br>
 
 # Year of 2021
 
