@@ -99,7 +99,7 @@ Weijian Chen, <b> Yulong Gu </b>, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong G
 ## Service
 
 ### Program Committee
-2022: AAAI, IJCAI, KDD <br>
+2022: AAAI, IJCAI, KDD, CIKM <br>
 
 2021: AAAI, IJCAI, CIKM <br>
 
