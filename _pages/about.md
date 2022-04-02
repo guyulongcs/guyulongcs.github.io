@@ -14,7 +14,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 ## Latest News
 * 2022/03/22 - Invited to serve as Program Committee of CIKM 2022.
 * 2021/12/23 - Invited to serve as Program Committee of KDD 2022.
-* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) is accepted to WSDM 2022.
+* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://arxiv.org/abs/2203.15542) is accepted to WSDM 2022.
 * 2021/08/11 - Invited to serve as Program Committee of AAAI 2022. 
 * 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://guyulongcs.github.io/files/CIKM2021_ZEUS.pdf) is accepted to CIKM 2021.
 * 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
