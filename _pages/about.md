@@ -37,7 +37,7 @@ I am a Research Scientist at Alibaba Group working on Information Retrieval and 
 
 Zhifang Fan, Dan Ou, <b> Yulong Gu </b>, Bairan Fu, Xiang Li, Wentian Bao, Xinyu Dai, Xiaoyi Zeng, Tao Zhuang, Qingwen Liu  <br>
 <i> WSDM 2022 </i> <br>
-[PDF](https://guyulongcs.github.io/files/WSDM2022_RACP.pdf) <br>
+[PDF](https://arxiv.org/abs/2203.15542) <br>
  
 
 ### Year of 2021
