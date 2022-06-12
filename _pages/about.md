@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Alibaba Group working on Information Retrieval and Recommender Systems Research. I am currently based in Beijing, China. Before joining Alibaba, I workd on Recommender Systems in JD.com. I earned my PhD (Computer Science)  from Tsinghua University in 2017. During my PhD, I worked on deep learning, recommender system, data mining and natural language processing.
+Yulong Gu was a Research Scientist at Alibaba Group working on ranking in E-commerce Search Engine (Taobao Search) from 2020 to 2022. Prior to Alibaba, he was a Research Scientist at JD.com working on E-commerce Recommender Systems (JD Recommender System) from 2017 to 2020. He obatained Ph.D. (2017) from Tsinghua University. His research interests including information retrieval, recommender system, online advertising, deep learning, reinforcement learning, data mining and natural language processing. He published many research papers in premium conferences, such as SIGIR, WSDM, CIKM, AAAI, IJCAI.
 
 
 ## Latest News
