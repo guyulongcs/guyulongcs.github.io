@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yulong Gu is a Research Scientist as ByteDance working on Recommender System. Prior to Bytedance, he was a Research Scientist at Alibaba Group working on ranking in E-commerce Search Engine (Taobao Search) from 2020 to 2022. Prior to Alibaba, he was a Research Scientist at JD.com working on E-commerce Recommender Systems (JD Recommender System) from 2017 to 2020. He obatained Ph.D. (2017) from Tsinghua University. His research interests including information retrieval, recommender system, online advertising, deep learning, reinforcement learning, data mining and natural language processing. He published many research papers in premium conferences, such as SIGIR, WSDM, CIKM, ICDM, AAAI, IJCAI.
+Yulong Gu is a Research Scientist at ByteDance working on Recommender System. Prior to Bytedance, he was a Research Scientist at Alibaba Group working on ranking in E-commerce Search Engine (Taobao Search) from 2020 to 2022. Prior to Alibaba, he was a Research Scientist at JD.com working on E-commerce Recommender Systems (JD Recommender System) from 2017 to 2020. He obatained Ph.D. (2017) from Tsinghua University. His research interests including information retrieval, recommender system, online advertising, deep learning, reinforcement learning, data mining and natural language processing. He published many research papers in premium conferences, such as SIGIR, WSDM, CIKM, ICDM, AAAI, IJCAI.
 
 
 ## Latest News
