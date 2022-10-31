@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-I am a Research Scientist at Bytedance, working on Recommender Systems.
+I am a Research Scientist at Bytedance, working on Douyin Recommender Systems.
 
 Prior to that, I was a Research Scientist at Alibaba Group from May 2020 to May 2022, working on Search Engines and Recommender Systems research in Alibaba. 
 
