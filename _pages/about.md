@@ -12,6 +12,7 @@ Yulong Gu is a Research Scientist at ByteDance working on Douyin Recommender Sys
 
 
 ## Latest News
+* 2022/05/19 - Invited to serve as Program Committee of CIKM 2023.
 * 2022/03/22 - Invited to serve as Program Committee of CIKM 2022.
 * 2021/12/23 - Invited to serve as Program Committee of KDD 2022.
 * 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://dl.acm.org/doi/10.1145/3488560.3498478) is accepted to WSDM 2022.
@@ -99,6 +100,8 @@ Weijian Chen, <b> Yulong Gu </b>, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong G
 ## Service
 
 ### Program Committee
+2023: IJCAI, CIKM <br>
+
 2022: AAAI, IJCAI, KDD, CIKM <br>
 
 2021: AAAI, IJCAI, CIKM <br>
