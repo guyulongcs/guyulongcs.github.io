@@ -16,7 +16,9 @@ redirect_from:
 * 2017-2020 - Research Scientist, JD's E-commerce Recommender System, JD.com
 * 2012-2017 - Ph.D., Department of Computer Science and Technology, Tsinghua University.
 
-Research interests: online advertising, recommender system, information retrieval, deep learning, reinforcement learning.
+## Research interests
+
+online advertising, recommender system, information retrieval, deep learning, reinforcement learning.
 
 
 ## Latest News
@@ -42,6 +44,8 @@ Research interests: online advertising, recommender system, information retrieva
 
 
 ## Publications
+
+SIGIR, WSDM, ICDM, AAAI, IJCAI.
 
 ### Year of 2022
 <b> [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() </b> <br>
