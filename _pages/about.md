@@ -22,6 +22,9 @@ online advertising, recommender system, information retrieval, deep learning, re
 
 
 ## Latest News
+* 2025/04/22 - Invited to serve as Program Committee of ECAI 2025.
+* 2025/03/18 - Invited to serve as Program Committee of CIKM 2025.
+* 2024/11/29 - Invited to serve as Program Committee of IJCAI 2025.
 * 2024/03/11 - Invited to serve as Program Committee of CIKM 2024.
 * 2023/12/07 - Invited to serve as Program Committee of IJCAI 2024.
 * 2023/05/19 - Invited to serve as Program Committee of CIKM 2023.
@@ -114,6 +117,8 @@ Weijian Chen, <b> Yulong Gu </b>, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong G
 ## Service
 
 ### Program Committee
+2025: IJCAI, CIKM, ECAI <br>
+
 2024: IJCAI, CIKM <br>
 
 2023: IJCAI, CIKM <br>
