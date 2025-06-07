@@ -10,7 +10,7 @@ redirect_from:
 
 ## Experience
 
-* 2024-     - Research Scientist, Tiktok's Online Advertisement, Tiktok.
+* 2024-2025 - Research Scientist, Tiktok's Online Advertisement, Tiktok.
 * 2022-2024 - Research Scientist, Douyin's E-commerce Recommender System, Bytedance Ltd.
 * 2020-2022 - Research Scientist, Taobao's E-commerce Search Engine, Alibaba Group
 * 2017-2020 - Research Scientist, JD's E-commerce Recommender System, JD.com
