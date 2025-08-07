@@ -22,6 +22,7 @@ online advertising, recommender system, information retrieval, deep learning, re
 
 
 ## Latest News
+* 2025/08/06 - Invited to serve as reviewer of IEEE TNNLS.
 * 2025/06/25 - Invited to serve as reviewer of Neurocomputing.
 * 2025/04/22 - Invited to serve as Program Committee of ECAI 2025.
 * 2025/03/18 - Invited to serve as Program Committee of CIKM 2025.
@@ -131,7 +132,7 @@ Weijian Chen, <b> Yulong Gu </b>, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong G
 2020: AAAI, IJCAI
 
 ### Journals
-TOIS, Neurocomputing
+TOIS, Neurocomputing, TNNLS
 
 
 ## CV
