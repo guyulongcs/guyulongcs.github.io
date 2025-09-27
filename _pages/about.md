@@ -18,7 +18,7 @@ redirect_from:
 
 ## Research interests
 
-online advertising, recommender system, information retrieval, deep learning, reinforcement learning.
+Online advertising, Recommender system, Information retrieval, Deep learning, Large Language Model, Reinforcement learning.
 
 
 ## Latest News
