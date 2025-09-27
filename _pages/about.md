@@ -22,6 +22,7 @@ online advertising, recommender system, information retrieval, deep learning, re
 
 
 ## Latest News
+* 2025/09/24 - Invited to serve as reviewer of PAKDD 2026.
 * 2025/08/06 - Invited to serve as reviewer of IEEE TNNLS.
 * 2025/06/25 - Invited to serve as reviewer of Neurocomputing.
 * 2025/04/22 - Invited to serve as Program Committee of ECAI 2025.
