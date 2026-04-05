@@ -22,6 +22,7 @@ Online advertising, Recommender system, Information retrieval, Deep learning, La
 
 
 ## Latest News
+* 2026/03/31 - Invited to serve as reviewer of CIKM 2026.
 * 2025/12/10 - Invited to serve as reviewer of IJCAI 2026.
 * 2025/09/24 - Invited to serve as reviewer of PAKDD 2026.
 * 2025/08/06 - Invited to serve as reviewer of IEEE TNNLS.
