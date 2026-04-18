@@ -58,10 +58,8 @@ TOIS, SIGIR, WSDM, ICDM, AAAI, IJCAI.
 
 ### Year of 2026
 
-[Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives](https://dl.acm.org/doi/epdf/10.1145/3797895) is accepted to TOIS.
-
 <b> [Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives]() </b> <br>
-<b> Yulong Gu </b>, Lixin Zou, Cheliang Li  <br>
+<b> Yulong Gu </b>, Lixin Zou, Chenliang Li  <br>
 <i> TOIS 2026 </i> <br>
 [PDF](https://guyulongcs.github.io/files/TOIS2026_DLTR.pdf) <br>
 
