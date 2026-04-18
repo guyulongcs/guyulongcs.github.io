@@ -23,6 +23,7 @@ Online advertising, Recommender system, Information retrieval, Deep learning, La
 
 ## Latest News
 * 2026/03/31 - Invited to serve as reviewer of CIKM 2026.
+* 2026/01/26 - Our paper [Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives](https://guyulongcs.github.io/files/TOIS2026_DLTR.pdf) is accepted to TOIS.
 * 2025/12/10 - Invited to serve as reviewer of IJCAI 2026.
 * 2025/09/24 - Invited to serve as reviewer of PAKDD 2026.
 * 2025/08/06 - Invited to serve as reviewer of IEEE TNNLS.
@@ -53,7 +54,16 @@ Online advertising, Recommender system, Information retrieval, Deep learning, La
 
 ## Publications
 
-SIGIR, WSDM, ICDM, AAAI, IJCAI.
+TOIS, SIGIR, WSDM, ICDM, AAAI, IJCAI.
+
+### Year of 2026
+
+[Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives](https://dl.acm.org/doi/epdf/10.1145/3797895) is accepted to TOIS.
+
+<b> [Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives]() </b> <br>
+<b> Yulong Gu </b>, Lixin Zou, Cheliang Li  <br>
+<i> TOIS 2026 </i> <br>
+[PDF](https://guyulongcs.github.io/files/TOIS2026_DLTR.pdf) <br>
 
 ### Year of 2022
 <b> [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() </b> <br>
