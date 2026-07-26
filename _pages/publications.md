@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Year of 2026
+
+<b> [Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives]() </b> <br>
+<b> Yulong Gu </b>, Lixin Zou, Chenliang Li  <br>
+<i> TOIS 2026 </i> <br>
+[PDF](https://guyulongcs.github.io/files/TOIS2026_DLTR.pdf) <br>
 
 # Year of 2022
 <b> [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() </b> <br>
