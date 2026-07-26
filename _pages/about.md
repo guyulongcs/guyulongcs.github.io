@@ -1,56 +1,152 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## Experience
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+* 2024-2025 - Research Scientist, Tiktok's Online Advertisement, Tiktok.
+* 2022-2024 - Research Scientist, Douyin's E-commerce Recommender System, Bytedance Ltd.
+* 2020-2022 - Research Scientist, Taobao's E-commerce Search Engine, Alibaba Group
+* 2017-2020 - Research Scientist, JD's E-commerce Recommender System, JD.com
+* 2012-2017 - Ph.D., Department of Computer Science and Technology, Tsinghua University.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Research interests
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Online advertising, Recommender system, Information retrieval, Deep learning, Large Language Model, Reinforcement learning.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Latest News
+* 2026/03/31 - Invited to serve as reviewer of CIKM 2026.
+* 2026/01/26 - Our paper [Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives](https://guyulongcs.github.io/files/TOIS2026_DLTR.pdf) is accepted to TOIS 2026.
+* 2025/12/10 - Invited to serve as reviewer of IJCAI 2026.
+* 2025/09/24 - Invited to serve as reviewer of PAKDD 2026.
+* 2025/08/06 - Invited to serve as reviewer of IEEE TNNLS.
+* 2025/06/25 - Invited to serve as reviewer of Neurocomputing.
+* 2025/04/22 - Invited to serve as Program Committee of ECAI 2025.
+* 2025/03/18 - Invited to serve as Program Committee of CIKM 2025.
+* 2024/11/29 - Invited to serve as Program Committee of IJCAI 2025.
+* 2024/03/11 - Invited to serve as Program Committee of CIKM 2024.
+* 2023/12/07 - Invited to serve as Program Committee of IJCAI 2024.
+* 2023/05/19 - Invited to serve as Program Committee of CIKM 2023.
+* 2022/03/22 - Invited to serve as Program Committee of CIKM 2022.
+* 2021/12/23 - Invited to serve as Program Committee of KDD 2022.
+* 2021/10/12 - Our paper [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://dl.acm.org/doi/10.1145/3488560.3498478) is accepted to WSDM 2022.
+* 2021/08/11 - Invited to serve as Program Committee of AAAI 2022. 
+* 2021/08/10 - Our paper [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://guyulongcs.github.io/files/CIKM2021_ZEUS.pdf) is accepted to CIKM 2021.
+* 2021/07/09 - Invited to be a member of the Program Committee Board of IJCAI (serve as Program Committee for IJCAI 2022, 2023 and 2024).
+* 2021/05/19 - Invited to serve as Program Committee of CIKM 2021.
+* 2020/12/02 - Our paper [Attentive Neural Point Processes for Event Forecasting](https://guyulongcs.github.io/files/AAAI2021_ANPP.pdf) is accepted to AAAI 2021.
+* 2020/11/27 - Invited to serve as reviewer of TOIS.
+* 2020/09/04 - Invited to serve as Program Committee of AAAI 2021.
+* 2020/08/26 - Invited to serve as Program Committee of IJCAI 2021.
+* 2020/07/25 - Our paper [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://guyulongcs.github.io/files/CIKM2020_DMT.pdf) is accepted to CIKM 2020. [Code](https://github.com/guyulongcs/CIKM2020_DMT)
+* 2020/07/25 - Our paper [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://guyulongcs.github.io/files/CIKM2020_DecGCN.pdf) is accepted to CIKM 2020. [Code](https://github.com/guyulongcs/CIKM2020_DecGCN) 
+* 2020/04/22 - Our paper [Neural Interactive Collaborative Filtering](https://guyulongcs.github.io/files/SIGIR2020_NICF.pdf) is accepted to SIGIR 2020. [Code](https://github.com/guyulongcs/SIGIR2020_NICF)
+* 2019/10/11 - Our paper [Hierarchical User Profiling for E-commerce Recommender Systems](https://guyulongcs.github.io/files/WSDM2020_HUP.pdf) is accepted to WSDM 2020. [Code](https://github.com/guyulongcs/WSDM2020_HUP) 
+* 2019/05/09 - Our paper [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://guyulongcs.github.io/files/IJCAI2019_HGAT.pdf) is accepted to IJCAI 2019. [Code](https://github.com/guyulongcs/IJCAI2019_HGAT) 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Publications
 
-**Markdown generator**
+TOIS, SIGIR, WSDM, ICDM, AAAI, IJCAI.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+### Year of 2026
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<b> [Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives]() </b> <br>
+<b> Yulong Gu </b>, Lixin Zou, Chenliang Li  <br>
+<i> TOIS 2026 </i> <br>
+[PDF](https://guyulongcs.github.io/files/TOIS2026_DLTR.pdf) <br>
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+### Year of 2022
+<b> [Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search]() </b> <br>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Zhifang Fan, Dan Ou, <b> Yulong Gu </b>, Bairan Fu, Xiang Li, Wentian Bao, Xinyu Dai, Xiaoyi Zeng, Tao Zhuang, Qingwen Liu  <br>
+<i> WSDM 2022 </i> <br>
+[PDF](https://dl.acm.org/doi/10.1145/3488560.3498478) <br>
+ 
+
+### Year of 2021
+
+<b> [Attentive Neural Point Processes for Event Forecasting]() </b> <br>
+<b> Yulong Gu </b>  <br>
+<i> AAAI 2021 </i> <br>
+[PDF](https://guyulongcs.github.io/files/AAAI2021_ANPP.pdf) | [Code](https://github.com/guyulongcs/AAAI2021_ANPP) <br>
+
+<b> [Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce]() </b> <br>
+<b> Yulong Gu </b>, Wentian Bao, Dan Ou, Xiang Li, Baoliang Cui, Biyu Ma, Haikuan Huang, Qingwen Liu, Xiaoyi Zeng  <br>
+<i> CIKM 2021 </i> <br>
+[PDF](https://guyulongcs.github.io/files/CIKM2021_ZEUS.pdf) <br>
+
+
+
+### Year of 2020
+
+<b> [Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412697) </b> <br>
+<b> Yulong Gu </b>, Zhuoye Ding, Shuaiqiang Wang, Lixin Zou, Yiding Liu, Dawei Yin. <br>
+<i> CIKM 2020 </i> <br>
+[PDF](https://guyulongcs.github.io/files/CIKM2020_DMT.pdf) | [Code](https://github.com/guyulongcs/CIKM2020_DMT) <br>
+
+
+<b> [Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://dl.acm.org/doi/abs/10.1145/3340531.3412695) </b> <br>
+Yiding Liu, <b> Yulong Gu </b>, Zhuoye Ding, Junchao Gao, Ziyi Guo, Yongjun Bao, Weipeng Yan. <br>
+<i> CIKM 2020 </i> <br>
+[PDF](https://guyulongcs.github.io/files/CIKM2020_DecGCN.pdf) | [Code](https://github.com/guyulongcs/CIKM2020_DecGCN) <br>
+
+
+<b> [Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3397271.3401181) </b> <br>
+Lixin Zou, Long Xia, <b> Yulong Gu </b>, Xiangyu Zhao, Weidong Liu, Jimmy Xiangji Huang, Dawei Yin. <br>
+<i> SIGIR 2020 </i> <br>
+[PDF](https://guyulongcs.github.io/files/SIGIR2020_NICF.pdf) | [Code](https://github.com/guyulongcs/SIGIR2020_NICF) <br>
+
+
+<b> [Hierarchical User Profiling for E-commerce Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3336191.3371827) </b> <br>
+<b> Yulong Gu </b>, Zhuoye Ding, Shuaiqiang Wang, Dawei Yin. <br>
+<i> WSDM 2020 </i> <br>
+[PDF](https://guyulongcs.github.io/files/WSDM2020_HUP.pdf) | [Code](https://github.com/guyulongcs/WSDM2020_HUP) <br>
+
+###  Year of 2019
+
+<b> [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://www.ijcai.org/Proceedings/2019/0293.pdf) </b> <br>
+Weijian Chen, <b> Yulong Gu </b>, Zhaochun Ren, Xiangnan He, Hongtao Xie, Tong Guo, Dawei Yin, Yongdong Zhang. <br>
+<i> IJCAI 2019  </i> <br>
+[PDF](https://guyulongcs.github.io/files/IJCAI2019_HGAT.pdf) | [Code](https://github.com/guyulongcs/IJCAI2019_HGAT) <br>
+
+
+###  Year of 2016
+
+<b> [HLGPS: A Home Location Global Positioning System in Location-Based Social Networks](https://ieeexplore.ieee.org/document/7837923) </b> <br>
+<b> Yulong Gu </b>, Yuan Yao, Weidong Liu, Jiaxing Song. <br>
+<i> ICDM 2016  </i> <br>
+[PDF](https://guyulongcs.github.io/files/ICDM2016_HLGPS.pdf) | [Code](https://github.com/guyulongcs/ICDM2016_HLGPS) <br>
+
+
+
+## Service
+
+### Program Committee
+2025: IJCAI, CIKM, ECAI <br>
+
+2024: IJCAI, CIKM <br>
+
+2023: IJCAI, CIKM <br>
+
+2022: AAAI, IJCAI, KDD, CIKM <br>
+
+2021: AAAI, IJCAI, CIKM <br>
+
+2020: AAAI, IJCAI
+
+### Journals
+TOIS, Neurocomputing, TNNLS
+
+
+## CV
+
+[PDF](https://guyulongcs.github.io/files/YulongGu_CV.pdf) <br>
+
